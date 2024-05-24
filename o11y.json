@@ -1,0 +1,12 @@
+{
+    "name": "o11y",
+    "description": "This theme includes styles and icons for observability context tools",
+    "elements": [
+        {
+            "tag": "Grafana",
+            "stroke": "#ff671d",
+            "color": "#ff671d",
+            "icon": "/icons/grafana2.svg"
+        }
+    ]
+}
