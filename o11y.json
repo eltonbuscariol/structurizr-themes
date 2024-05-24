@@ -5,7 +5,8 @@
         {
             "tag": "grafana",
             "stroke": "#ff671d",
-            "color": "#ff671d"
+            "color": "#ff671d",
+            "icon": "/icons/grafana2.svg"
         }
     ]
 }
