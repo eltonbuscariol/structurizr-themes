@@ -7,6 +7,30 @@
             "stroke": "#ff671d",
             "color": "#ff671d",
             "icon": "icons/o11y/grafana.png"
-        }
+        },
+        {
+            "tag": "tempo",
+            "stroke": "#ff671d",
+            "color": "#ff671d",
+            "icon": "icons/o11y/tempo.png"
+        },
+        {
+            "tag": "mimir",
+            "stroke": "#ff671d",
+            "color": "#ff671d",
+            "icon": "icons/o11y/mimir.png"
+        },
+        {
+            "tag": "loki",
+            "stroke": "#ff671d",
+            "color": "#ff671d",
+            "icon": "icons/o11y/loki.png"
+        },
+        {
+            "tag": "prometheus",
+            "stroke": "#E6522C",
+            "color": "#E6522C",
+            "icon": "icons/o11y/prometheus.png"
+        },
     ]
 }
