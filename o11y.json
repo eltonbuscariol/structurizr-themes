@@ -6,7 +6,7 @@
             "tag": "grafana",
             "stroke": "#ff671d",
             "color": "#ff671d",
-            "icon": "icons/grafana.png"
+            "icon": "icons/o11y/grafana.png"
         }
     ]
 }
