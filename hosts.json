@@ -1,0 +1,36 @@
+{
+    "name": "hosts",
+    "description": "This theme includes styles and icons for hosts context",
+    "elements": [
+        {
+            "tag": "linux",
+            "stroke": "#000",
+            "color": "#F5BE04",
+            "icon": "icons/hosts/linux.png"
+        },
+        {
+            "tag": "windows",
+            "stroke": "#00B4F1",
+            "color": "#00B4F1",
+            "icon": "icons/hosts/windows.png"
+        },
+        {
+            "tag": "vmware",
+            "stroke": "#7B9AC2",
+            "color": "#7B9AC2",
+            "icon": "icons/hosts/vmware.png"
+        },
+        {
+            "tag": "docker",
+            "stroke": "#039BC6",
+            "color": "#039BC6",
+            "icon": "icons/hosts/docker.png"
+        },
+        {
+            "tag": "k8s",
+            "stroke": "#326CE5",
+            "color": "#326CE5",
+            "icon": "icons/hosts/kubernetes.png"
+        }
+    ]
+}

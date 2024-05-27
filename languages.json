@@ -1,6 +1,6 @@
 {
     "name": "languages",
-    "description": "Language icons",
+    "description": "This theme includes styles and icons for languages context",
     "elements": [
         {
             "tag": "nodejs",
