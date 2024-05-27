@@ -31,6 +31,6 @@
             "stroke": "#E6522C",
             "color": "#E6522C",
             "icon": "icons/o11y/prometheus.png"
-        },
+        }
     ]
 }
