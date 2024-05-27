@@ -37,6 +37,12 @@
             "stroke": "#54DC8C",
             "color": "#7f8183",
             "icon": "icons/o11y/uptime-kuma.png"
+        },
+        {
+            "tag": "otel",
+            "stroke": "#425cc7",
+            "color": "#f5a800",
+            "icon": "icons/o11y/opentelemetry.png"
         }
     ]
 }
