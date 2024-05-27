@@ -1,0 +1,56 @@
+{
+    "name": "o11y",
+    "description": "This theme includes styles and icons for sap context",
+    "elements": [
+        {
+            "tag": "sapApplication",
+            "stroke": "#006bb8",
+            "color": "#006bb8",
+            "icon": "icons/sap/sap.png"
+        },
+        {
+            "tag": "sapDatabase",
+            "shape": "cylinder",
+            "stroke": "#006bb8",
+            "color": "#006bb8",
+            "icon": "icons/sap/sap.png"
+        },
+        {
+            "tag": "sapHana",
+            "shape": "cylinder",
+            "stroke": "#006bb8",
+            "color": "#006bb8",
+            "icon": "icons/sap/hana.png"
+        },
+        {
+            "tag": "sapNetWeaver",
+            "stroke": "#003d80",
+            "color": "#003d80",
+            "icon": "icons/sap/netweaver.png"
+        },
+        {
+            "tag": "sapECC",
+            "stroke": "#003d80",
+            "color": "#003d80",
+            "icon": "icons/sap/ecc.png"
+        },
+        {
+            "tag": "sapS4",
+            "stroke": "#006bb8",
+            "color": "#006bb8",
+            "icon": "icons/sap/s4-hana.png"
+        },
+        {
+            "tag": "sapBTP",
+            "stroke": "#006bb8",
+            "color": "#006bb8",
+            "icon": "icons/sap/btp.png"
+        },
+        {
+            "tag": "sapPI",
+            "stroke": "#003d80",
+            "color": "#003d80",
+            "icon": "icons/sap/pi.png"
+        }
+    ]
+}
