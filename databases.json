@@ -4,42 +4,42 @@
     "elements": [
         {
             "tag": "hana",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
             "icon": "icons/db/hana.png"
         },
         {
             "tag": "oracle",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#EE0004",
             "color": "#EE0004",
             "icon": "icons/db/oracle.png"
         },
         {
             "tag": "sqlserver",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#B21A1E",
             "color": "#B21A1E",
             "icon": "icons/db/sqlserver.png"
         },
         {
             "tag": "mysql",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#02608B",
             "color": "#02608B",
             "icon": "icons/db/mysql.png"
         },
         {
             "tag": "postgresql",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#417BA2",
             "color": "#417BA2",
             "icon": "icons/db/postgresql.png"
         },
         {
             "tag": "mongodb",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#07AC4F",
             "color": "#07AC4F",
             "icon": "icons/db/mongodb.png"
