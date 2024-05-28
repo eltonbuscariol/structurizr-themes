@@ -7,7 +7,7 @@
             "shape": "Roundedbox",
             "stroke": "#81ce27",
             "color": "#81ce27",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/languages/nodejs.png"
         },
         {
@@ -15,7 +15,7 @@
             "shape": "Roundedbox",
             "stroke": "#0a7bbe",
             "color": "#ffd448",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/languages/python.png"
         },
         {
@@ -23,7 +23,7 @@
             "shape": "Roundedbox",
             "stroke": "#68217a",
             "color": "#68217a",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/languages/csharp.png"
         },
         {
@@ -31,7 +31,7 @@
             "shape": "Roundedbox",
             "stroke": "#0074bd",
             "color": "#ea2d2e",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/languages/java.png"
         },
         {
@@ -39,7 +39,7 @@
             "shape": "Roundedbox",
             "stroke": "#777bb3",
             "color": "#3c4043",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/languages/php.png"
         }
     ]

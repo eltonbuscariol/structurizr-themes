@@ -7,7 +7,7 @@
             "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/grafana.png"
         },
         {
@@ -15,7 +15,7 @@
             "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/tempo.png"
         },
         {
@@ -23,7 +23,7 @@
             "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/mimir.png"
         },
         {
@@ -31,7 +31,7 @@
             "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/loki.png"
         },
         {
@@ -39,7 +39,7 @@
             "shape": "Roundedbox",
             "stroke": "#E6522C",
             "color": "#E6522C",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/prometheus.png"
         },
         {
@@ -47,7 +47,7 @@
             "shape": "Roundedbox",
             "stroke": "#54DC8C",
             "color": "#7f8183",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/uptime-kuma.png"
         },
         {
@@ -55,7 +55,7 @@
             "shape": "Roundedbox",
             "stroke": "#425cc7",
             "color": "#f5a800",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/o11y/opentelemetry.png"
         }
     ]

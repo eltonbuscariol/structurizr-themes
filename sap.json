@@ -7,7 +7,7 @@
             "shape": "Roundedbox",
             "stroke": "#006bb8",
             "color": "#006bb8",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/sap.png"
         },
         {
@@ -15,7 +15,7 @@
             "shape": "Cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/sap.png"
         },
         {
@@ -31,7 +31,7 @@
             "shape": "Roundedbox",
             "stroke": "#003d80",
             "color": "#003d80",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/netweaver.png"
         },
         {
@@ -39,7 +39,7 @@
             "shape": "Roundedbox",
             "stroke": "#003d80",
             "color": "#003d80",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/ecc.png"
         },
         {
@@ -47,7 +47,7 @@
             "shape": "Roundedbox",
             "stroke": "#006bb8",
             "color": "#006bb8",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/s4-hana.png"
         },
         {
@@ -55,7 +55,7 @@
             "shape": "Roundedbox",
             "stroke": "#006bb8",
             "color": "#006bb8",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/btp.png"
         },
         {
@@ -63,7 +63,7 @@
             "shape": "Roundedbox",
             "stroke": "#003d80",
             "color": "#003d80",
-            "background": "#fff",
+            "background": "#ffffff",
             "icon": "icons/sap/pi.png"
         }
     ]
