@@ -6,6 +6,7 @@
             "tag": "sapApplication",
             "stroke": "#006bb8",
             "color": "#006bb8",
+            "background": "#fff",
             "icon": "icons/sap/sap.png"
         },
         {
@@ -13,6 +14,7 @@
             "shape": "cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
+            "background": "#fff",
             "icon": "icons/sap/sap.png"
         },
         {
@@ -20,36 +22,42 @@
             "shape": "cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
+            "background": "#fff",
             "icon": "icons/sap/hana.png"
         },
         {
             "tag": "sapNetWeaver",
             "stroke": "#003d80",
             "color": "#003d80",
+            "background": "#fff",
             "icon": "icons/sap/netweaver.png"
         },
         {
             "tag": "sapECC",
             "stroke": "#003d80",
             "color": "#003d80",
+            "background": "#fff",
             "icon": "icons/sap/ecc.png"
         },
         {
             "tag": "sapS4",
             "stroke": "#006bb8",
             "color": "#006bb8",
+            "background": "#fff",
             "icon": "icons/sap/s4-hana.png"
         },
         {
             "tag": "sapBTP",
             "stroke": "#006bb8",
             "color": "#006bb8",
+            "background": "#fff",
             "icon": "icons/sap/btp.png"
         },
         {
             "tag": "sapPI",
             "stroke": "#003d80",
             "color": "#003d80",
+            "background": "#fff",
             "icon": "icons/sap/pi.png"
         }
     ]

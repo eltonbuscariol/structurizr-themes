@@ -6,30 +6,35 @@
             "tag": "nodejs",
             "stroke": "#81ce27",
             "color": "#81ce27",
+            "background": "#fff",
             "icon": "icons/languages/nodejs.png"
         },
         {
             "tag": "python",
             "stroke": "#0a7bbe",
             "color": "#ffd448",
+            "background": "#fff",
             "icon": "icons/languages/python.png"
         },
         {
             "tag": "csharp",
             "stroke": "#68217a",
             "color": "#68217a",
+            "background": "#fff",
             "icon": "icons/languages/csharp.png"
         },
         {
             "tag": "java",
             "stroke": "#0074bd",
             "color": "#ea2d2e",
+            "background": "#fff",
             "icon": "icons/languages/java.png"
         },
         {
             "tag": "php",
             "stroke": "#777bb3",
             "color": "#3c4043",
+            "background": "#fff",
             "icon": "icons/languages/php.png"
         }
     ]

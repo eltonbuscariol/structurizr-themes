@@ -6,42 +6,49 @@
             "tag": "grafana",
             "stroke": "#ff671d",
             "color": "#ff671d",
+            "background": "#fff",
             "icon": "icons/o11y/grafana.png"
         },
         {
             "tag": "tempo",
             "stroke": "#ff671d",
             "color": "#ff671d",
+            "background": "#fff",
             "icon": "icons/o11y/tempo.png"
         },
         {
             "tag": "mimir",
             "stroke": "#ff671d",
             "color": "#ff671d",
+            "background": "#fff",
             "icon": "icons/o11y/mimir.png"
         },
         {
             "tag": "loki",
             "stroke": "#ff671d",
             "color": "#ff671d",
+            "background": "#fff",
             "icon": "icons/o11y/loki.png"
         },
         {
             "tag": "prometheus",
             "stroke": "#E6522C",
             "color": "#E6522C",
+            "background": "#fff",
             "icon": "icons/o11y/prometheus.png"
         },
         {
             "tag": "uptime-kuma",
             "stroke": "#54DC8C",
             "color": "#7f8183",
+            "background": "#fff",
             "icon": "icons/o11y/uptime-kuma.png"
         },
         {
             "tag": "otel",
             "stroke": "#425cc7",
             "color": "#f5a800",
+            "background": "#fff",
             "icon": "icons/o11y/opentelemetry.png"
         }
     ]

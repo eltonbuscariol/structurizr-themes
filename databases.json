@@ -7,6 +7,7 @@
             "shape": "Cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
+            "background": "#fff",
             "icon": "icons/db/hana.png"
         },
         {
@@ -14,6 +15,7 @@
             "shape": "Cylinder",
             "stroke": "#EE0004",
             "color": "#EE0004",
+            "background": "#fff",
             "icon": "icons/db/oracle.png"
         },
         {
@@ -21,6 +23,7 @@
             "shape": "Cylinder",
             "stroke": "#B21A1E",
             "color": "#B21A1E",
+            "background": "#fff",
             "icon": "icons/db/sqlserver.png"
         },
         {
@@ -28,6 +31,7 @@
             "shape": "Cylinder",
             "stroke": "#02608B",
             "color": "#02608B",
+            "background": "#fff",
             "icon": "icons/db/mysql.png"
         },
         {
@@ -35,6 +39,7 @@
             "shape": "Cylinder",
             "stroke": "#417BA2",
             "color": "#417BA2",
+            "background": "#fff",
             "icon": "icons/db/postgresql.png"
         },
         {
@@ -42,6 +47,7 @@
             "shape": "Cylinder",
             "stroke": "#07AC4F",
             "color": "#07AC4F",
+            "background": "#fff",
             "icon": "icons/db/mongodb.png"
         }
     ]
