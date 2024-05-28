@@ -4,6 +4,7 @@
     "elements": [
         {
             "tag": "sapApplication",
+            "shape": "Roundedbox",
             "stroke": "#006bb8",
             "color": "#006bb8",
             "background": "#fff",
@@ -27,6 +28,7 @@
         },
         {
             "tag": "sapNetWeaver",
+            "shape": "Roundedbox",
             "stroke": "#003d80",
             "color": "#003d80",
             "background": "#fff",
@@ -34,6 +36,7 @@
         },
         {
             "tag": "sapECC",
+            "shape": "Roundedbox",
             "stroke": "#003d80",
             "color": "#003d80",
             "background": "#fff",
@@ -41,6 +44,7 @@
         },
         {
             "tag": "sapS4",
+            "shape": "Roundedbox",
             "stroke": "#006bb8",
             "color": "#006bb8",
             "background": "#fff",
@@ -48,6 +52,7 @@
         },
         {
             "tag": "sapBTP",
+            "shape": "Roundedbox",
             "stroke": "#006bb8",
             "color": "#006bb8",
             "background": "#fff",
@@ -55,6 +60,7 @@
         },
         {
             "tag": "sapPI",
+            "shape": "Roundedbox",
             "stroke": "#003d80",
             "color": "#003d80",
             "background": "#fff",

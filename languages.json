@@ -4,6 +4,7 @@
     "elements": [
         {
             "tag": "nodejs",
+            "shape": "Roundedbox",
             "stroke": "#81ce27",
             "color": "#81ce27",
             "background": "#fff",
@@ -11,6 +12,7 @@
         },
         {
             "tag": "python",
+            "shape": "Roundedbox",
             "stroke": "#0a7bbe",
             "color": "#ffd448",
             "background": "#fff",
@@ -18,6 +20,7 @@
         },
         {
             "tag": "csharp",
+            "shape": "Roundedbox",
             "stroke": "#68217a",
             "color": "#68217a",
             "background": "#fff",
@@ -25,6 +28,7 @@
         },
         {
             "tag": "java",
+            "shape": "Roundedbox",
             "stroke": "#0074bd",
             "color": "#ea2d2e",
             "background": "#fff",
@@ -32,6 +36,7 @@
         },
         {
             "tag": "php",
+            "shape": "Roundedbox",
             "stroke": "#777bb3",
             "color": "#3c4043",
             "background": "#fff",

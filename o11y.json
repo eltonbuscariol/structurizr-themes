@@ -4,6 +4,7 @@
     "elements": [
         {
             "tag": "grafana",
+            "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
             "background": "#fff",
@@ -11,6 +12,7 @@
         },
         {
             "tag": "tempo",
+            "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
             "background": "#fff",
@@ -18,6 +20,7 @@
         },
         {
             "tag": "mimir",
+            "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
             "background": "#fff",
@@ -25,6 +28,7 @@
         },
         {
             "tag": "loki",
+            "shape": "Roundedbox",
             "stroke": "#ff671d",
             "color": "#ff671d",
             "background": "#fff",
@@ -32,6 +36,7 @@
         },
         {
             "tag": "prometheus",
+            "shape": "Roundedbox",
             "stroke": "#E6522C",
             "color": "#E6522C",
             "background": "#fff",
@@ -39,6 +44,7 @@
         },
         {
             "tag": "uptime-kuma",
+            "shape": "Roundedbox",
             "stroke": "#54DC8C",
             "color": "#7f8183",
             "background": "#fff",
@@ -46,6 +52,7 @@
         },
         {
             "tag": "otel",
+            "shape": "Roundedbox",
             "stroke": "#425cc7",
             "color": "#f5a800",
             "background": "#fff",
