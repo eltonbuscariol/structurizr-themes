@@ -11,7 +11,7 @@
         },
         {
             "tag": "sapDatabase",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
             "background": "#fff",
@@ -19,7 +19,7 @@
         },
         {
             "tag": "sapHana",
-            "shape": "cylinder",
+            "shape": "Cylinder",
             "stroke": "#006bb8",
             "color": "#006bb8",
             "background": "#fff",
