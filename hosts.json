@@ -4,13 +4,15 @@
     "elements": [
         {
             "tag": "linux",
-            "stroke": "#000",
+            "shape": "Roundedbox",
+            "stroke": "#000000",
             "color": "#F5BE04",
             "background": "#ffffff",
             "icon": "icons/hosts/linux.png"
         },
         {
             "tag": "windows",
+            "shape": "Roundedbox",
             "stroke": "#00B4F1",
             "color": "#00B4F1",
             "background": "#ffffff",
@@ -18,6 +20,7 @@
         },
         {
             "tag": "vmware",
+            "shape": "Roundedbox",
             "stroke": "#7B9AC2",
             "color": "#7B9AC2",
             "background": "#ffffff",
@@ -25,6 +28,7 @@
         },
         {
             "tag": "docker",
+            "shape": "Roundedbox",
             "stroke": "#039BC6",
             "color": "#039BC6",
             "background": "#ffffff",
@@ -32,6 +36,7 @@
         },
         {
             "tag": "k8s",
+            "shape": "Roundedbox",
             "stroke": "#326CE5",
             "color": "#326CE5",
             "background": "#ffffff",
